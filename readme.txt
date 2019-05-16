@@ -6,7 +6,7 @@ creat a new brush is quick.
 git brush stu。
 creat a new brush is quick.
 git brush stu。
-Creating a new brush is quick & simple.
+Creating a new brush is quick and simple.
 
 
 Git study。
